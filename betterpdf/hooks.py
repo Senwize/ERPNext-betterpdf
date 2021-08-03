@@ -2,11 +2,11 @@ from . import __version__ as app_version
 
 app_name = "betterpdf"
 app_title = "Better PDF"
-app_publisher = "Pollex"
+app_publisher = "Senwize B.V."
 app_description = "Better PDF generator"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "timvosch@pollex.nl"
+app_email = "timvanosch@senwize.com"
 app_license = "MIT"
 
 before_install = "betterpdf.setup.install.before_install"

@@ -1,4 +1,12 @@
 {
+  "name": "html2pdf",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tim van Osch",
+    "email": "timvanosch@senwize.com"
+  },
+  "main": "html2pdf.js",
+  "license": "MIT",
   "dependencies": {
     "puppeteer": "^10.1.0"
   }
