@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include betterpdf *.css
+recursive-include betterpdf *.csv
+recursive-include betterpdf *.html
+recursive-include betterpdf *.ico
+recursive-include betterpdf *.js
+recursive-include betterpdf *.json
+recursive-include betterpdf *.md
+recursive-include betterpdf *.png
+recursive-include betterpdf *.py
+recursive-include betterpdf *.svg
+recursive-include betterpdf *.txt
+recursive-exclude betterpdf *.pyc
