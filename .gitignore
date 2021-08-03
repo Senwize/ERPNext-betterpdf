@@ -4,3 +4,4 @@
 *.swp
 tags
 betterpdf/docs/current
+**/node_modules
